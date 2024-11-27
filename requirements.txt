@@ -1,0 +1,8 @@
+bertopic==0.14.1
+matplotlib==3.8.2
+nltk==3.9.1
+pandas==2.2.3
+pandasql==0.7.3
+scikit_learn==1.5.2
+seaborn==0.13.2
+sentence_transformers==3.0.1
